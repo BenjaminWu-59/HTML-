@@ -59,10 +59,10 @@
 html语法
 
 - #### 标签
-  *<!DOCTYPE html>
-  *<tag attr=value>内容</tag>
-  *<tag attr>内容</tag>
-  *<tag attr=value>
+    *<!DOCTYPE html>
+    *<tag attr=value>内容</tag>
+    *<tag attr>内容</tag>
+    *<tag attr=value>
 
   tag即标签、attr即属性
 
