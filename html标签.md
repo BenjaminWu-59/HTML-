@@ -1,8 +1,5 @@
 # HTML标签
 
-[TOC]
-
-
 
 ### 一些必备的英语
 
@@ -124,6 +121,6 @@
 
 ### 常见的CSS reset
 
-- 个人使用的[CSS reset](C:\Users\Administrator\Desktop\note\html\reset.css)
+- 个人使用的[CSS reset]()
 - 还可以在大厂等网页进行抄写
 
