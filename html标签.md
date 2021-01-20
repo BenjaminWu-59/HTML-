@@ -118,7 +118,7 @@
 
 - **什么事默认样式？**
 
-<font face="黑体" color="800080" size="3">在css未出世前，html本身就有的一些样式，如标题自动加粗等</font> 
+   <font face="黑体" color="800080" size="3">在css未出世前，html本身就有的一些样式，如标题自动加粗等</font> 
 - **如何查看默认样式？**
 
    <font face="黑体" color="800080" size="3">首先打开Chrome</font>
