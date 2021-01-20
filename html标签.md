@@ -99,24 +99,35 @@
 本属性即可以在所有html标签都可以使用的属性，如:
                                                                `<div class="middle">`
 
-- class     <font face="黑体" color="green">用来对网页元素进行分类。如果不同元素的`class`属性值相同，就表示它们是一类的</font>
-- contenteditable    <font face="黑体" color="green">使任何一个元素变得可以直接编辑,如可以让style元素进入body区，直接进行调试</font>
-- hidden   <font face="黑体" color="green">隐藏任何一个元素，可通过css调出</font>
-- id   <font face="黑体" color="green">在网页内的唯一标识符,万不得已不要用，用class</font>
-- style  <font face="黑体" color="green">用来指定当前元素的 CSS 样式,style效力对比：js>html>css</font>
-- tabindex   <font face="黑体" color="green">制定tab键跳动焦点及是否可以遍历，正数表示顺序访问，0表示最后访问，-1表示不访问</font>
-- title   <font face="黑体" color="green">用来为元素添加附加说明</font>
+- class     
+<font face="黑体" color="green">用来对网页元素进行分类。如果不同元素的`class`属性值相同，就表示它们是一类的</font>
+- contenteditable    
+<font face="黑体" color="green">使任何一个元素变得可以直接编辑,如可以让style元素进入body区，直接进行调试</font>
+- hidden   
+<font face="黑体" color="green">隐藏任何一个元素，可通过css调出</font>
+- id   
+<font face="黑体" color="green">在网页内的唯一标识符,万不得已不要用，用class</font>
+- style  
+<font face="黑体" color="green">用来指定当前元素的 CSS 样式,style效力对比：js>html>css</font>
+- tabindex  
+<font face="黑体" color="green">制定tab键跳动焦点及是否可以遍历，正数表示顺序访问，0表示最后访问，-1表示不访问</font>
+- title   
+<font face="黑体" color="green">用来为元素添加附加说明</font>
 
 ### 默认样式
 
 - **什么事默认样式？**
-   <font face="黑体" color="800080" size="3">在css未出世前，html本身就有的一些样式，如标题自动加粗等</font> 
+
+<font face="黑体" color="800080" size="3">在css未出世前，html本身就有的一些样式，如标题自动加粗等</font> 
 - **如何查看默认样式？**
+
    <font face="黑体" color="800080" size="3">首先打开Chrome</font>
    <font face="黑体" color="800080" size="3">Elements->Styles->user agent stylesheet</font>
 - **User Agent是什么？**
+
    <font face="黑体" color="800080" size="3">即浏览器的意思</font>
 - **为何使用CSS reset？**
+
    <font face="黑体" color="800080" size="3">由于html本身的默认样式已经不符合我们的需求，所以使用css reset将其覆盖掉，使用我们喜欢的样式</font>
 
 ### 常见的CSS reset
