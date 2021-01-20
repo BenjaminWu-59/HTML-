@@ -121,6 +121,6 @@
 
 ### 常见的CSS reset
 
-- 个人使用的[CSS reset]()
+- 个人使用的[CSS reset](https://github.com/BenjaminWu-59/HTML-/blob/main/reset.css)
 - 还可以在大厂等网页进行抄写
 
